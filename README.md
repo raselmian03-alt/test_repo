@@ -1,3 +1,0 @@
-new_repo
-my_first_test_rep
-my_first_test_rep
